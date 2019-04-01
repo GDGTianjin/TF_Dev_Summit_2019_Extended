@@ -111,17 +111,17 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 **【资源】**
 
-**活动的照片：**[点击照片](https://www.meetup.com/GDG-Tianjin/photos/all_photos/?photoAlbumId=29815841)
+**活动的照片：** [点击照片](https://www.meetup.com/GDG-Tianjin/photos/all_photos/?photoAlbumId=29815841)
 
 **活动的录像：**
 
-      财大张院长发言 & 活动开场：[点击录像](https://v.qq.com/x/page/s085484q3xj.html)
+  财大张院长发言 & 活动开场：[点击录像](https://v.qq.com/x/page/s085484q3xj.html)
+  
+  GDE 林嵩的分享：[点击录像](https://v.qq.com/x/page/u0854k3a8c6.html)
+  
+  徐大为博士分享：[点击录像](https://v.qq.com/x/page/r0854qmsiad.html)
 
-      GDE 林嵩的分享：[点击录像](https://v.qq.com/x/page/u0854k3a8c6.html)
-
-      徐大为博士分享：[点击录像](https://v.qq.com/x/page/r0854qmsiad.html)
-
-      傅春教授分享：[点击录像](https://v.qq.com/x/page/a0854slbmgv.html)
+  傅春教授分享：[点击录像](https://v.qq.com/x/page/a0854slbmgv.html)
 
  
 
