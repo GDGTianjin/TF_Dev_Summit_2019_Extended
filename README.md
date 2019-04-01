@@ -38,10 +38,10 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 
 ![摄影：张志毅](https://wx3.sinaimg.cn/large/005CuckKly1g1lzznb9syj312w0pxe82.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 ![摄影：张志毅](https://wx2.sinaimg.cn/large/005CuckKly1g1m00f0i5tj312w0px7wi.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 
 
@@ -50,10 +50,10 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 
 ![摄影：张志毅](https://wx4.sinaimg.cn/large/005CuckKly1g1m00tqazhj312w0px1ky.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 ![摄影：张志毅](https://wx2.sinaimg.cn/large/005CuckKly1g1m00to6ugj310y0u0hdu.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 
 
@@ -62,10 +62,10 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 
 ![摄影：张志毅](https://wx3.sinaimg.cn/large/005CuckKly1g1m01kfwvuj312w0n8x6p.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 ![摄影：张志毅](https://wx4.sinaimg.cn/large/005CuckKly1g1m01xs5phj312w0q9b2a.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 
 
@@ -78,10 +78,10 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 
 ![摄影：张志毅](https://wx4.sinaimg.cn/large/005CuckKly1g1m026zh9oj312w0rf4qq.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 ![摄影：张志毅](https://wx3.sinaimg.cn/large/005CuckKly1g1m02i9lzej312w0px4qq.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 
 
@@ -94,10 +94,10 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 
 ![摄影：张志毅](https://wx3.sinaimg.cn/large/005CuckKly1g1m031vzasj312w0ng7wi.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 ![摄影：张志毅](https://wx4.sinaimg.cn/large/005CuckKly1g1lzzwdx3ij312w0t6b2a.jpg)
-摄影：张志毅
+*摄影：张志毅
 
 
 
@@ -117,13 +117,13 @@ TensorFlow Dev Summit 2019 大会于 3 月 7 日和 8 日两天在美国旧金�
 
 **活动的录像：**
 
-财大张院长发言 & 活动开场：[点击录像](https://v.qq.com/x/page/s085484q3xj.html)
+      财大张院长发言 & 活动开场：[点击录像](https://v.qq.com/x/page/s085484q3xj.html)
 
-GDE 林嵩的分享：[点击录像](https://v.qq.com/x/page/u0854k3a8c6.html)
+      GDE 林嵩的分享：[点击录像](https://v.qq.com/x/page/u0854k3a8c6.html)
 
-徐大为博士分享：[点击录像](https://v.qq.com/x/page/r0854qmsiad.html)
+      徐大为博士分享：[点击录像](https://v.qq.com/x/page/r0854qmsiad.html)
 
-傅春教授分享：[点击录像](https://v.qq.com/x/page/a0854slbmgv.html)
+      傅春教授分享：[点击录像](https://v.qq.com/x/page/a0854slbmgv.html)
 
  
 
